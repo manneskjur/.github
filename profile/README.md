@@ -7,11 +7,7 @@
   />
 </a>
 
-# manneskjur
-
-## Icelandic
-
-Icelandic Wikipedia has an article on: [maður](https://is.wikipedia.org/wiki/Maður) (synonym)
+# Nokkrar manneskjur að búa til Oja
 
 ## Pronunciation
 
