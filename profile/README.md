@@ -1,4 +1,4 @@
-<a href="https://github.com/manneskja/oja">
+<a href="https://github.com/manneskjur/oja">
   <img
     src="./logo.svg"
     align="right"
@@ -7,7 +7,7 @@
   />
 </a>
 
-# manneskja
+# manneskjur
 
 ## Icelandic
 
