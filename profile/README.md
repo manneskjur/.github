@@ -11,7 +11,7 @@
 
 ## Pronunciation
 
-[IPA](https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet)<sup>([key](https://en.wiktionary.org/wiki/Appendix:Icelandic_pronunciation))</sup>: [ˈman(ː)ɛsca]
+"MAHN-ehs-kyoor" [IPA](https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet)<sup>([key](https://en.wiktionary.org/wiki/Appendix:Icelandic_pronunciation))</sup>: [ˈmanːɛscʏr]
 
 ## Noun
 manneskja _f_ (_genitive singular_ **manneskju**, _nominative plural_ **manneskjur**)
